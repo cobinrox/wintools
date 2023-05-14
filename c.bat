@@ -1,0 +1,22 @@
+@REM Dump ANSI color values
+@REM
+@ECHO "0 Black"
+@ECHO "1 Blue"
+@ECHO "2 Green"
+@ECHO "3 Aqua"
+@ECHO "4 Red"
+@ECHO "5 Purple"
+@ECHO "6 Yellow"
+@ECHO "7 White"
+@ECHO "8 Gray"
+@ECHO "9 Light Blue"
+@ECHO "A Light Green"
+@ECHO "B Light Acqua"
+@ECHO "C Light Red"
+@ECHO "D Light Purple"
+@ECHO "E Light Yellow"
+@ECHO "F Bright White"
+@ECHO "Example yellow under black:"
+@Echo "     color 60
+@ECHO "Example blue under white:"
+@ECHO "     color 17"
